@@ -1,4 +1,3 @@
-# PRODIGY_DS_04
 # 🧠 Task 04 – Sentiment Analysis & Visualization of Twitter Data
 
 ## 📍 Internship – Prodigy Infotech
